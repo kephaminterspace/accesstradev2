@@ -59,10 +59,7 @@
                       <li><a href="https://plus.google.com/u/0/+AccesstradeVi%E1%BB%87tNamaffiliatemarketing" class="a-google-plus"><i class="icon ti-google" aria-hidden="true"></i></a></li>
                     </ul>
                     <div class="st-social">
-<!--
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/bo-cong-thuong.da-dang-ky.png" alt="">
--->
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="copyright">
                     </div>
                 </div>
             </div>
@@ -78,10 +75,6 @@
                           <li><a href="<?php echo esc_url(home_url( '/' )) ;?>cau-hoi-thuong-gap" >Câu hỏi thường gặp</a></li>
                           <li><a href="<?php echo esc_url(home_url( '/' )) ;?>chinh-sach-hop-tac-va-thanh-toan">Chính sách</a></li>
                           <li><a href="<?php echo esc_url(home_url( '/' )) ;?>nen-tang-affiliate-marketing-accesstrade-viet-nam-la-gi.html" >Giới thiệu</a></li>
-                          <!--<li><a href="#"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/vn.png" alt="">  Việt Nam <span class="caret"></span> </a>  </li>
-                          <li><a href="https://www.accesstrade.ne.jp/"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/jp.png" alt=""> Japan</a></li>
-                          <li><a href="http://www.accesstrade.co.id/"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/id.png" alt=""> Indonesia</a></li>
-                          <li><a href="http://accesstrade.in.th/"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/th.png" alt=""> Thailand</a></li> -->
                         </ul>
                     </div>
                 </div>

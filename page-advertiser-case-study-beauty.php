@@ -123,7 +123,7 @@
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.png" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.png" alt="study-5">
                                     </div>
                     
                 </div>
@@ -147,14 +147,14 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kangnam.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kangnam.png" alt="kangnam">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/DongA.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/DongA.png" alt="DongA">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/saigonspa-1.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/saigonspa-1.png" alt="saigonspa-1">
                           </div>
                           
                         </div>

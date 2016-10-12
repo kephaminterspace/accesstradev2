@@ -121,7 +121,7 @@
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.png" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.png" alt="study-4">
                                     </div>
                     
                 </div>
@@ -145,13 +145,13 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/topica.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/topica.png" alt="topica">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kyna.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kyna.png" alt="kyna">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/WSE.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/WSE.png" alt="WSE">
                           </div>
                           
                         </div>

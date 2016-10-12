@@ -14,8 +14,8 @@
 
                             <div class="col-xs-12 col-sm-12">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
-                                    <img class="slide1-images img1" data-animation="animated pulse" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-3-slide-2-layer-21.png" alt="">
-                                    <img class="slide1-images img2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-3-slide-2-layer-20.png" alt="">
+                                    <img class="slide1-images img1" data-animation="animated pulse" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-3-slide-2-layer-21.png" alt="Accesstrade home slide image 1 1">
+                                    <img class="slide1-images img2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-3-slide-2-layer-20.png" alt="Accesstrade home slide image 1 2">
                                 </div>
                             </div>
                         </div>
@@ -34,9 +34,9 @@
 
                             <div class="col-xs-12 col-sm-12">
                                 <div class="slide-img text-center">
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-41a.png" data-animation="animated bounceInUp" class="slide1-images2 img1" alt="">
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-42a.png" data-animation="animated bounceInUp" class="slide1-images2 img2" alt="">
-                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-43a.png" data-animation="animated bounceInUp" class="slide1-images2 img3" alt="">
+                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-41a.png" data-animation="animated bounceInUp" class="slide1-images2 img1" alt="Accesstrade home slide image 2 1">
+                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-42a.png" data-animation="animated bounceInUp" class="slide1-images2 img2" alt="Accesstrade home slide image 2 2">
+                                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-7-slide-2-layer-43a.png" data-animation="animated bounceInUp" class="slide1-images2 img3" alt="Accesstrade home slide image 2 3">
                                 </div>
                             </div>
                         </div>
@@ -55,8 +55,8 @@
 
                             <div class="col-xs-12 col-sm-12">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
-                                    <img class="slide-img0" style="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-slide-2-layer-1a.png" alt="">
-                                    <img data-animation="animated bounceInRight" class="slide2-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-slide-2-layer-1b.png" alt="">
+                                    <img class="slide-img0" style="" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-slide-2-layer-1a.png" alt="Accesstrade home slide image 3 1">
+                                    <img data-animation="animated bounceInRight" class="slide2-img" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-slide-2-layer-1b.png" alt="Accesstrade home slide image 3 2">
                                 </div>
                             </div>
                         </div>

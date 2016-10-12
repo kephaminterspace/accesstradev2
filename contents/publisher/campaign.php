@@ -65,7 +65,7 @@
 							<div class="post-content">
 								<h3 class="post-title">
 								<a href="<?php echo $links_campaign;?>"><?php the_title();?></a></h3>
-								<div class="meta"><span class="category"><a href="<?php echo $links_campaign;?>"><?php echo $cat_campaign;?> <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cam/icon-hot.gif" alt=""></a></div>
+								<div class="meta"><span class="category"><a href="<?php echo $links_campaign;?>"><?php echo $cat_campaign;?> <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cam/icon-hot.gif" alt="Icon Hot"></a></div>
 
 							</div>
 

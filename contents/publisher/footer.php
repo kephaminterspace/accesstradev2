@@ -58,10 +58,7 @@
                       <li><a href="https://plus.google.com/u/0/+AccesstradeVi%E1%BB%87tNamaffiliatemarketing" class="a-google-plus"><i class="icon ti-google" aria-hidden="true"></i></a></li>
                     </ul>
                     <div class="st-social">
-<!--
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/bo-cong-thuong.da-dang-ky.png" alt="">
--->
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="copyright">
                     </div>
                 </div>
             </div>

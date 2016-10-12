@@ -75,7 +75,7 @@
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.png" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.png" alt="study-2">
                                     </div>
                     
                 </div>
@@ -99,17 +99,17 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/abay.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/abay.png" alt="abay">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/mytour.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/mytour.png" alt="mytour">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/bookin.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/bookin.png" alt="bookin">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ivivu.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ivivu.png" alt="ivivu">
                           </div>
                           
                         </div>

@@ -47,9 +47,9 @@
                                
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_1.png" alt="">
-                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_2.png" data-animation="animated bounce" alt="">
-                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_3.png" data-animation="animated wobble" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_1.png" alt="aver-sli1 1">
+                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_2.png" data-animation="animated bounce" alt="aver-sli1 2">
+                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_3.png" data-animation="animated wobble" alt="aver-sli1 3">
                                     </div>
                                 </div>
                                 
@@ -71,10 +71,10 @@
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center">
                                    <div class="images-wrap aver-slide">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_1.png" alt="" data-animation="animated bounceInUp">
-                                        <img class="over s2_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_2.png" alt="" data-animation="animated bounceInUp">
-                                        <img class="over s2_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_3.png" alt="" data-animation="animated bounceInUp">
-                                        <img class="over s2_3" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_4.png" alt="" data-animation="animated bounceInRight">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_1.png" alt="aver-sli3 1" data-animation="animated bounceInUp">
+                                        <img class="over s2_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_2.png" alt="aver-sli3 2" data-animation="animated bounceInUp">
+                                        <img class="over s2_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_3.png" alt="aver-sli3 3" data-animation="animated bounceInUp">
+                                        <img class="over s2_3" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_4.png" alt="aver-sli3 4" data-animation="animated bounceInRight">
                                     </div>
                                 </div>
                             </div>
@@ -95,9 +95,9 @@
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img class="s3_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_1.png" data-animation="animated bounceIn" alt="">
-                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_2.png" data-animation="animated bounce" alt="">
-                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_3.png" data-animation="animated wobble" alt="">
+                                        <img class="s3_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_1.png" data-animation="animated bounceIn" alt="aver-sli4 1">
+                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_2.png" data-animation="animated bounce" alt="aver-sli4 2">
+                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_3.png" data-animation="animated wobble" alt="aver-sli4 3">
                                     </div>
                                 </div>
                             </div>
@@ -118,8 +118,8 @@
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img class=" s4_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_1.png" data-animation="animated pulse" alt="">
-                                        <img class="over s4_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_2.png" alt="">
+                                        <img class=" s4_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_1.png" data-animation="animated pulse" alt="aver-sli2 1">
+                                        <img class="over s4_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_2.png" alt="aver-sli2 2">
                                     </div>
                                 </div>
                             </div>
@@ -160,7 +160,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig" data-wow-delay="0s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-1.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-1.png" alt="walking-1">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Truy cập</h6>
@@ -176,7 +176,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.2s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-2.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-2.png" alt="walking-2">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Tương tác</h6>
@@ -191,7 +191,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.4s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-3.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-3.png" alt="walking-3">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Đối soát</h6>
@@ -206,7 +206,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.6s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-4.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-4.png" alt="walking-4">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Thanh toán</h6>
@@ -244,7 +244,7 @@
                 
                 <div class="col-xs-12 col-sm-12 col-md-7">
                     <div class="images-wrap wow fadeInRightBig" data-wow-delay="0.2">
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cpa.png" alt="">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cpa.png" alt="cpa">
                     </div>
                 </div>
 
@@ -333,7 +333,7 @@
                            </div>
                        
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.jpg" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.jpg" alt="study-5">
                             </div>
                        </a>
                         
@@ -353,7 +353,7 @@
                            </div>
                        
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.jpg" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.jpg" alt="study-4">
                             </div>
                        </a>
                         
@@ -373,7 +373,7 @@
                            </div>
                        
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.jpg" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.jpg" alt="study-3">
                             </div>
                        </a>
                         
@@ -393,7 +393,7 @@
                            </div>
                        
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.jpg" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.jpg" alt="study-2">
                             </div>
                        </a>
                         
@@ -413,7 +413,7 @@
                            </div>
                        
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.jpg" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.jpg" alt="study-1">
                             </div>
                        </a>
                         

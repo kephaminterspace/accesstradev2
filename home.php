@@ -14,7 +14,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig" data-wow-delay="0s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-5.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-5.png" alt="Proccess image 5">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Tạo link</h6>
@@ -26,7 +26,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.2s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-8.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-8.png" alt="Proccess image 8">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Quảng bá link</h6>
@@ -38,7 +38,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.4s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-6.png" alt="">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-6.png" alt="Proccess image 6">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Nhận hoa hồng</h6>
@@ -162,71 +162,71 @@
 
                         
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tiki.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tiki.png" alt="tiki">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/topmot.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/topmot.png" alt="topmot">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/nguyenkim.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/nguyenkim.png" alt="nguyenkim">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mytour.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mytour.png" alt="mytour">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/yes24.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/yes24.png" alt="yes24">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vinabook.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vinabook.png" alt="vinabook">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vib.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vib.png" alt="vib">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vananphat1.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vananphat1.png" alt="vananphat1">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kyna.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kyna.png" alt="kyna">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kiotviet.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kiotviet.png" alt="kiotviet">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/citibank.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/citibank.png" alt="citibank">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cdiscount.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cdiscount.png" alt="cdiscount">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/apolo.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/apolo.png" alt="apolo">
                         </div>
 						
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-1.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-1.png" alt="client-1">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-2.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-2.png" alt="client-2">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-3.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-3.png" alt="client-3">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-4.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-4.png" alt="client-4">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-5.png" alt="">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-5.png" alt="client-5">
                         </div>
 
                     </div>

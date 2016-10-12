@@ -75,7 +75,7 @@
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.png" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.png" alt="study-3">
                                     </div>
                     
                 </div>
@@ -99,21 +99,21 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ANZ.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ANZ.png" alt="ANZ">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/citibank.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/citibank.png" alt="citibank">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/exim.png" alt="">
-                          </div>
-                          
-                          <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/vpbank.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/exim.png" alt="exim">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/maritime%20.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/vpbank.png" alt="vpbank">
+                          </div>
+                          
+                          <div class="item text-center">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/maritime%20.png" alt="maritime">
                           </div>
                           
                         </div>

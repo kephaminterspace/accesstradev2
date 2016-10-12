@@ -42,10 +42,7 @@
                       <li><a href="https://www.youtube.com/channel/UCzZeIML1DvYpEC1iN0SavfA" class="a-google-plus"><i class="icon ti-youtube" aria-hidden="true"></i></a></li>
                     </ul>
                     <div class="st-social">
-<!--
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/bo-cong-thuong.da-dang-ky.png" alt="">
--->
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="copyright">
                     </div>
                 </div>
             </div>

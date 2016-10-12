@@ -44,7 +44,7 @@
                 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-4-graphic-1.png" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-4-graphic-1.png" alt="graphic-1">
                 </div>
             </div>
             </div>
@@ -70,7 +70,7 @@ Các hình thức link tracking cơ bản: Banner link, Text link, Product link,
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-3.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-3.jpg" alt="tour-3">
                 </div>
                 </div>
 
@@ -101,7 +101,7 @@ Các hình thức link tracking cơ bản: Banner link, Text link, Product link,
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-2.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-2.jpg" alt="tour-2">
                 </div>
                 </div>
 
@@ -127,7 +127,7 @@ Hoa hồng được thanh toán vào ngày 15 hàng tháng. Chính sách thanh t
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-1.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-1.jpg" alt="tour-1">
                 </div>
                 </div>
 

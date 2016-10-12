@@ -74,7 +74,7 @@ Nhà cung cấp chỉ phải trả phí khi người dùng thực hiện mua hà
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.png" alt="">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.png" alt="study-1">
                                     </div>
                     
                 </div>
@@ -98,17 +98,17 @@ Nhà cung cấp chỉ phải trả phí khi người dùng thực hiện mua hà
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/adayroi.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/adayroi.png" alt="adayroi">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/tiki.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/tiki.png" alt="tiki">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/cdiscount.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/cdiscount.png" alt="cdiscount">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/zanado.png" alt="">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/zanado.png" alt="zanado">
                           </div>
                           
                         </div>

@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="tour-20">
                 </div>
                 </div>
 
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="tour-21">
                 </div>
                 </div>
 
@@ -112,7 +112,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="tour-23">
                 </div>
                 </div>
 
