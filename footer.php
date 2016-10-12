@@ -123,7 +123,7 @@
 
 <script>
         $(document).ready(function () {	
-		$(".navbar-right .navbar-nav-btn a").attr('href','http://pub.accesstrade.vn/');
+		$(".navbar-right .navbar-nav-btn a").attr('href','http://pub1.accesstrade.vn/');
 	});
 </script>
 </body>
