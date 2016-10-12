@@ -40,7 +40,7 @@
                                     <li><a href="<?php echo esc_url(home_url( '/' )) ;?>huong-dan-publisher">Hướng dẫn</a></li>
                                     <li><a href="<?php echo esc_url(home_url( '/' )) ;?>blog-affiliate">Blog</a></li>
                                     <li><a href="http://forum.accesstrade.vn">Forum</a></li>
-                                    <li class="navbar-nav-btn"><a href="http://member.accesstrade.vn/p/partnerlogin" target="_blank">Đăng nhập</a></li>
+                                    <li class="navbar-nav-btn"><a href="http://pub.accesstrade.vn" target="_blank">Đăng nhập</a></li>
                                     <li class="hidden-sm hidden-md hidden-lg nav-btn-green"><a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser">Advertiser</a></li>
                                 </ul>
                             </div>
