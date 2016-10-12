@@ -79,7 +79,6 @@
     <script>
         $(document).ready(function () {
             var navpos = $('#mainnav').offset();
-            console.log(navpos.top);
             $(window).bind('scroll', function () {
                 if ($(window).scrollTop() > navpos.top) {
                     $('#mainnav').addClass('fixed').addClass('white-nav');
@@ -93,7 +92,6 @@
 <script>
         $(document).ready(function () {
             var navpos = $('#mainnav').offset();
-            console.log(navpos.top);
             $(window).bind('scroll', function () {
                 if ($(window).scrollTop() > navpos.top) {
                     $('#mainnav').addClass('fixed');
