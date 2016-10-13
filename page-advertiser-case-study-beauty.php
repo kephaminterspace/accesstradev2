@@ -51,8 +51,8 @@
                                     <i class="icon ti-menu" aria-hidden="true"></i>
                                 </button>
                                 <a class="navbar-brand" href="#">
-                                    <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo" title="Logo sáng">
-                                    <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="normal logo" title="Logo thường">
+                                    <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo" title="Logo accesstrade">
+                                    <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="normal logo" title="Logo accesstrade">
                                 </a>
                             </div>
 

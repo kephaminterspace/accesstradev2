@@ -28,8 +28,8 @@
                                 <i class="icon ti-menu" aria-hidden="true"></i>
                             </button>
                             <a class="navbar-brand" href="<?php echo esc_url(home_url( '/' )) ;?>">
-                                <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo">
-                                <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="light logo">
+                                <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo" title="Logo accesstrade">
+                                <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="light logo" title="Logo accesstrade">
                             </a>
                         </div>
 
@@ -40,7 +40,7 @@
                                 <li><a href="<?php echo esc_url(home_url( '/' )) ;?>huong-dan-publisher">Hướng dẫn</a></li>
                                 <li><a href="<?php echo esc_url(home_url( '/' )) ;?>blog-affiliate">Blog</a></li>
                                 <li><a href="http://forum.accesstrade.vn">Forum</a></li>
-                                <li class="navbar-nav-btn"><a href="https://pub.accesstrade.vn">Đăng nhập</a></li>
+                                <li class="navbar-nav-btn"><a href="https://pub.accesstrade.vn">Đăng ký</a></li>
                                 <li class="hidden-sm hidden-md hidden-lg nav-btn-green"><a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser">Advertiser</a></li>
                             </ul>
                         </div>
