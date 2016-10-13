@@ -12,12 +12,8 @@
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/owl-carousel/owl.transitions.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/wow-master/css/libs/animate.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/simple-line-icons-master/css/simple-line-icons.css">
-    <!--    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/css3-animate-it.css">-->
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/animateSlider/css/jquery.animateSlider.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/themify-icons/themify-icons.css">
-
-
-
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/at-style.css">
 </head>
 
@@ -31,7 +27,6 @@
 	   get_template_part('contents/blog/header');
 	}
 	?>
-    
     <section class="content-block img-block bk-grey bor-t bor-b">
        <div class="container">
             <div class="row">
@@ -41,17 +36,14 @@
                         <p class="section-subtitle">ACCESSTRADE cung cấp những tiện ích vô cùng đơn giản, và quản lý dễ dàng cho Publisher</p>
                     </div>
                 </div>
-                
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-4-graphic-1.png" alt="graphic-1">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/home-4-graphic-1.png" alt="graphic-1"  title="Graphic 1">
                 </div>
             </div>
             </div>
-
         </div>
     </section>
-    
     <section class="content-block tour-block">
         <div class="container">
             <div class="row">
@@ -65,19 +57,16 @@
 Các hình thức link tracking cơ bản: Banner link, Text link, Product link, Datafeed. Trong đó, Datafeed là hình thức chỉ áp dụng với website so sánh data của nhiều nhà cung cấp khác nhau.</p>
                         </div>
                         <div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
-                        
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-3.jpg" alt="tour-3">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-3.jpg" alt="tour-3"  title="Tour 3">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
     <section class="content-block bk-grey bor-t bor-b tour-block">
         <div class="container">
             <div class="row">
@@ -96,19 +85,16 @@ Các hình thức link tracking cơ bản: Banner link, Text link, Product link,
                             </p>
                         </div>
                         <div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
-                        
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-2.jpg" alt="tour-2">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-2.jpg" alt="tour-2"  title="Tour 2">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
     <section class="content-block tour-block">
         <div class="container">
             <div class="row">
@@ -122,19 +108,14 @@ Các hình thức link tracking cơ bản: Banner link, Text link, Product link,
 Hoa hồng được thanh toán vào ngày 15 hàng tháng. Chính sách thanh toán linh hoạt nhất – nhanh nhất – chỉ có tại ACCESSTRADE!</p>
                         </div>
                         <div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
-                        
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-1.jpg" alt="tour-1">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-1.jpg" alt="tour-1"  title="Tour 1">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
-
-
     <?php 	get_template_part('contents/publisher/footer'); ?>

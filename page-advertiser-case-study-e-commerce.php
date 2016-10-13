@@ -74,7 +74,7 @@ Nhà cung cấp chỉ phải trả phí khi người dùng thực hiện mua hà
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.png" alt="study-1">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.png" alt="study-1" title="Học 1">
                                     </div>
                     
                 </div>
@@ -98,30 +98,24 @@ Nhà cung cấp chỉ phải trả phí khi người dùng thực hiện mua hà
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/adayroi.png" alt="adayroi">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/adayroi.png" alt="adayroi" title="A đây rồi">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/tiki.png" alt="tiki">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/tiki.png" alt="tiki" title="Tiki">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/cdiscount.png" alt="cdiscount">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/cdiscount.png" alt="cdiscount" title="C Discount">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/zanado.png" alt="zanado">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/zanado.png" alt="zanado" title="Zanado">
                           </div>
                           
                         </div>
                     </div>
                 </div>
-
-                
-                
             </div>
-
         </div>
-
-        
     </section>
 
     

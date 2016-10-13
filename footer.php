@@ -2,14 +2,14 @@
         <div class="container">
             <div class="row footer-col-spacing">
                 <div class="col-xs-12 col-sm-12 col-md-3 footer-logo">
-                    <a href=""><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-footer.png" alt="logo footer"></a>
+                    <a href=""><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-footer.png" alt="logo footer"title="Logo footer"></a>
                     <p>Nền tảng Tiếp thị liên kết quy mô và uy tín nhất Việt Nam</p>
                      <p>Mạng lưới ACCESSTRADE toàn cầu</p>
                      <ul  class="nav-flag">
-                      <li><a href="<?php echo esc_url(home_url( '/' )) ;?>"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/vn.png" alt="Vietnam"> </a></li>
-                      <li><a href="https://www.accesstrade.ne.jp/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/jp.png" alt="Japan"> </a></li>
-                      <li><a href="http://www.accesstrade.co.id/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/id.png" alt="Indonesia"> </a></li>
-                      <li><a href="http://accesstrade.in.th/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/th.png" alt="Thailand"> </a></li>
+                      <li><a href="<?php echo esc_url(home_url( '/' )) ;?>"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/vn.png" alt="Vietnam" title="Việt Nam"> </a></li>
+                      <li><a href="https://www.accesstrade.ne.jp/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/jp.png" alt="Japan" title="Japan"> </a></li>
+                      <li><a href="http://www.accesstrade.co.id/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/id.png" alt="Indonesia" title="Indonesia"> </a></li>
+                      <li><a href="http://accesstrade.in.th/" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/flag/th.png" alt="Thailand" title="Thái Lan"> </a></li>
                      </ul>
                 </div>
                <div class="col-xs-12 col-sm-6 col-md-3">
@@ -42,7 +42,7 @@
                       <li><a href="https://www.youtube.com/channel/UCzZeIML1DvYpEC1iN0SavfA" class="a-google-plus"><i class="icon ti-youtube" aria-hidden="true"></i></a></li>
                     </ul>
                     <div class="st-social">
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="copyright">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/digital-millenium-copyright-act-logo.png" alt="copyright" title="Bản Quyền">
                     </div>
                 </div>
             </div>

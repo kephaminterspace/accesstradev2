@@ -14,7 +14,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig" data-wow-delay="0s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-5.png" alt="Proccess image 5">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-5.png" alt="Proccess image 5" title="Proccess 5">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Tạo link</h6>
@@ -26,7 +26,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.2s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-8.png" alt="Proccess image 8">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-8.png" alt="Proccess image 8" title="Proccess 8">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Quảng bá link</h6>
@@ -38,7 +38,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.4s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-6.png" alt="Proccess image 6">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/process-image-6.png" alt="Proccess image 6" title="Proccess 6">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Nhận hoa hồng</h6>
@@ -162,71 +162,71 @@
 
                         
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tiki.png" alt="tiki">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tiki.png" alt="tiki" title="Tiki">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/topmot.png" alt="topmot">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/topmot.png" alt="topmot" title="Top mot">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/nguyenkim.png" alt="nguyenkim">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/nguyenkim.png" alt="nguyenkim" title="Nguyễn Kim">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mytour.png" alt="mytour">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/mytour.png" alt="mytour" title="My tour">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/yes24.png" alt="yes24">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/yes24.png" alt="yes24" title="Yes 24">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vinabook.png" alt="vinabook">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vinabook.png" alt="vinabook" title="Vina Book">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vib.png" alt="vib">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vib.png" alt="vib" title="Vib">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vananphat1.png" alt="vananphat1">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/vananphat1.png" alt="vananphat1" title="Vạn An Phát">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kyna.png" alt="kyna">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kyna.png" alt="kyna" title="Ky Na">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kiotviet.png" alt="kiotviet">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/kiotviet.png" alt="kiotviet" title="Ki ốt Việt">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/citibank.png" alt="citibank">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/citibank.png" alt="citibank" title="Citi Bank">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cdiscount.png" alt="cdiscount">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cdiscount.png" alt="cdiscount" title="C Discount">
                         </div>
 						
 						<div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/apolo.png" alt="apolo">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/apolo.png" alt="apolo" title="Apolo">
                         </div>
 						
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-1.png" alt="client-1">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-1.png" alt="client-1" title="Khách 1">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-2.png" alt="client-2">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-2.png" alt="client-2" title="Khách 2">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-3.png" alt="client-3">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-3.png" alt="client-3" title="Khách 3">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-4.png" alt="client-4">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-4.png" alt="client-4" title="Khách 4">
                         </div>
                         <div class="item">
-                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-5.png" alt="client-5">
+                            <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/client-5.png" alt="client-5" title="Khách 5">
                         </div>
 
                     </div>

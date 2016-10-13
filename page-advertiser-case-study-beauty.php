@@ -51,8 +51,8 @@
                                     <i class="icon ti-menu" aria-hidden="true"></i>
                                 </button>
                                 <a class="navbar-brand" href="#">
-                                    <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo">
-                                    <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="light logo">
+                                    <img class="logo-white" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-light.png" alt="light logo" title="Logo sáng">
+                                    <img class="logo-col" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo-normal.png" alt="normal logo" title="Logo thường">
                                 </a>
                             </div>
 
@@ -123,7 +123,7 @@
                 <div class="col-xs-12 col-sm-7">
                 
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.png" alt="study-5">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.png" alt="study-5" title="Study 5">
                                     </div>
                     
                 </div>
@@ -147,14 +147,14 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kangnam.png" alt="kangnam">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/kangnam.png" alt="kangnam" title="Kangnam">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/DongA.png" alt="DongA">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/DongA.png" alt="DongA" title="Đông Á">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/saigonspa-1.png" alt="saigonspa-1">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/saigonspa-1.png" alt="saigonspa-1" title="Sài Gòn spa">
                           </div>
                           
                         </div>

@@ -14,25 +14,15 @@
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/simple-line-icons-master/css/simple-line-icons.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/animateSlider/css/jquery.animateSlider.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/themify-icons/themify-icons.css">
-
-
-
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/at-style.css">
 </head>
-
 <body>
    <?php
-
-   	get_template_part('contents/advertiser/header');
-
+   	    get_template_part('contents/advertiser/header');
 	?>
-    
     <section class="at-slide-block bk-grey">
-       
         <div id="carousel-example-generic" class="carousel-2 carousel slide carousel-fade" data-interval="4000">
-
             <div class="carousel-inner" role="listbox">
-               
                 <div class="item bk slide-8 white-text active  carousel-caption">
                     <div class="container">
                         <div class="row">
@@ -42,22 +32,18 @@
                                     <p class="" data-animation="animated bounceInUp">Nhà cung cấp chỉ mất phí quảng cáo cho mỗi hành động thành công của người dùng</p>
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-sm-7">
-                               
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_1.png" alt="aver-sli1 1">
-                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_2.png" data-animation="animated bounce" alt="aver-sli1 2">
-                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_3.png" data-animation="animated wobble" alt="aver-sli1 3">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_1.png" alt="aver-sli1 1"  title="aver sli 1">
+                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_2.png" data-animation="animated bounce" alt="aver-sli1 2"  title="aver sli 2">
+                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli1_3.png" data-animation="animated wobble" alt="aver-sli1 3"  title="aver sli 3">
                                     </div>
                                 </div>
-                                
                             </div>
                         </div>
                     </div>
                 </div>
-                
                 <div class="item bk slide-2 white-text carousel-caption">
                     <div class="container">
                         <div class="row">
@@ -67,21 +53,19 @@
                                     <p class="" data-animation="animated bounceInUp">Cập nhật báo cáo Real time, đo lường chính xác hiệu quả chiến dịch</p>
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center">
                                    <div class="images-wrap aver-slide">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_1.png" alt="aver-sli3 1" data-animation="animated bounceInUp">
-                                        <img class="over s2_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_2.png" alt="aver-sli3 2" data-animation="animated bounceInUp">
-                                        <img class="over s2_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_3.png" alt="aver-sli3 3" data-animation="animated bounceInUp">
-                                        <img class="over s2_3" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_4.png" alt="aver-sli3 4" data-animation="animated bounceInRight">
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_1.png" alt="aver-sli3 1" title="aver sli 3 1" data-animation="animated bounceInUp">
+                                        <img class="over s2_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_2.png" alt="aver-sli3 2" title="aver sli 3 2" data-animation="animated bounceInUp">
+                                        <img class="over s2_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_3.png" alt="aver-sli3 3" title="aver sli 3 3" data-animation="animated bounceInUp">
+                                        <img class="over s2_3" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli3_4.png" alt="aver-sli3 4" title="aver sli 3 4" data-animation="animated bounceInRight">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                
                 <div class="item bk slide-6 white-text carousel-caption">
                     <div class="container">
                         <div class="row">
@@ -91,20 +75,18 @@
                                     <p class="" data-animation="animated bounceInUp">Tỷ lệ chuyển đổi cao bởi nguồn traffic chất lượng từ hệ thống Publisher</p>
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img class="s3_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_1.png" data-animation="animated bounceIn" alt="aver-sli4 1">
-                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_2.png" data-animation="animated bounce" alt="aver-sli4 2">
-                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_3.png" data-animation="animated wobble" alt="aver-sli4 3">
+                                        <img class="s3_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_1.png" data-animation="animated bounceIn" alt="aver-sli4 1"  title="aver sli 4 1">
+                                        <img class="over s1_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_2.png" data-animation="animated bounce" alt="aver-sli4 2"  title="aver sli 4 2">
+                                        <img class="over s1_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli4_3.png" data-animation="animated wobble" alt="aver-sli4 3" title="aver sli 4 3">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                
                 <div class="item bk  slide-5 carousel-caption">
                     <div class="container">
                         <div class="row">
@@ -114,24 +96,18 @@
                                     <p class="" data-animation="animated bounceInUp">Đẩy mạnh thương hiệu thông qua hệ thống hơn 50,000 đối tác</p>
                                 </div>
                             </div>
-
                             <div class="col-xs-12 col-sm-7">
                                 <div class="slide-img text-center" data-animation="animated bounceInUp">
                                    <div class="images-wrap aver-slide">
-                                        <img class=" s4_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_1.png" data-animation="animated pulse" alt="aver-sli2 1">
-                                        <img class="over s4_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_2.png" alt="aver-sli2 2">
+                                        <img class=" s4_1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_1.png" data-animation="animated pulse" alt="aver-sli2 1" title="aver sli 2 1">
+                                        <img class="over s4_2" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/aver-sli2_2.png" alt="aver-sli2 2" title="aver sli 2 2">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                
             </div>
-            
-            
-            
-
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left icon-arrow-left" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -141,13 +117,7 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-       
-       
-        
-        
-        
     </section>
-    
     <section class="content-block bor-t bor-b">
         <div class="container">
             <div class="row">
@@ -160,7 +130,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig" data-wow-delay="0s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-1.png" alt="walking-1">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-1.png" alt="walking-1" title="Walking 1">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Truy cập</h6>
@@ -170,13 +140,11 @@
                         <div class="arrow wow fadeIn" data-wow-delay="0.8s">
                                 <span class="ti-angle-right"></span>
                         </div>
-                        
                     </div>
-
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.2s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-2.png" alt="walking-2">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-2.png" alt="walking-2" title="Walking 2">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Tương tác</h6>
@@ -187,11 +155,10 @@
                                 <span class="ti-angle-right"></span>
                         </div>
                     </div>
-
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.4s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-3.png" alt="walking-3">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-3.png" alt="walking-3" title="Walking 3">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Đối soát</h6>
@@ -202,11 +169,10 @@
                                 <span class="ti-angle-right"></span>
                         </div>
                     </div>
-                    
                     <div class="col-xs-12 col-sm-6 col-md-3 text-center">
                         <div class="process-item-holder wow fadeInUpBig"  data-wow-delay="0.6s">
                             <div class="image-holder">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-4.png" alt="walking-4">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/walking-4.png" alt="walking-4" title="Walking 4">
                             </div>
                             <div class="content-holder">
                                 <h6 class="pi-title">Thanh toán</h6>
@@ -215,8 +181,6 @@
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </section>
@@ -230,33 +194,22 @@
                         <p class="section-subtitle"> </p>
                     </div>
                 </div>
-
                 <div class="col-xs-12 col-sm-12 col-md-5">
                     <div class="mkdf-section-subtitle-holder wow fadeInLeftBig" data-wow-delay="0">
                         <p class="mkdf-section-subtitle">Với hơn 16 năm kinh nghiệm hoạt động tại nhiều quốc gia, ACCESSTRADE mang đến cho nhà cung cấp cơ hội quảng bá sản phẩm, dịch vụ hiệu quả thông qua mạng lưới tiếp thị liên kết quy mô lớn nhất Đông Nam Á.</br></br>
                         Đặc biệt, với mô hình tính phí quảng cáo CPA (Cost per Action), ACCESSTRADE giúp nhà cung cấp chỉ phải trả phí cho mỗi hành động thành công của người dùng như mua hàng, đăng ký, điền thông tin.</p>
                         <div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
-                     
                         <div class="vc_empty_space hidden-md hidden-lg" style="height: 25px"></div>
                     </div>
-                    
                 </div>
-                
                 <div class="col-xs-12 col-sm-12 col-md-7">
                     <div class="images-wrap wow fadeInRightBig" data-wow-delay="0.2">
-                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cpa.png" alt="cpa">
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cpa.png" alt="cpa"  title="Cpa">
                     </div>
                 </div>
-
             </div>
-
         </div>
-
-
-
-
     </section>
-
     <section class="content-block tour-block bk-blue white-text">
        <div class="container">
             <div class="row">
@@ -269,11 +222,8 @@
                         <span class="mkdf-counter">50+</span>
                         <h4 class="mkdf-counter-title">Nhà cung cấp hàng đầu</h4>
                     </div>
-                    
                 </div>
-                
                 <div class="col-xs-12 col-sm-3">
-                
                     <div class="mkdf-counter-holder text-center">
                         <div class="mkdf-counter-icon">
                             <i class="ti-money"></i>
@@ -281,11 +231,8 @@
                         <span class="mkdf-counter">100B</span>
                         <h4 class="mkdf-counter-title">Doanh thu bán hàng mỗi tháng</h4>
                     </div>
-                    
                 </div>
-                
                 <div class="col-xs-12 col-sm-3">
-                
                     <div class="mkdf-counter-holder text-center">
                         <div class="mkdf-counter-icon">
                             <i class="ti-volume"></i>
@@ -293,11 +240,8 @@
                         <span class="mkdf-counter">50+</span>
                         <h4 class="mkdf-counter-title">Đối tác truyền thông</h4>
                     </div>
-                    
                 </div>
-                
                 <div class="col-xs-12 col-sm-3">
-                
                     <div class="mkdf-counter-holder text-center" style="margin-bottom: 0 !important;">
                         <div class="mkdf-counter-icon">
                             <i class="ti-user"></i>
@@ -305,15 +249,10 @@
                         <span class="mkdf-counter">10K+</span>
                         <h4 class="mkdf-counter-title">Cá nhân được đào tạo về tiếp thị liên kết</h4>
                     </div>
-                    
                 </div>
             </div>
-
         </div>
-
-        
     </section>
-    
     <section class="content-block1 case-block">
        <div class="container">
             <div class="row">
@@ -323,113 +262,82 @@
                         <p class="section-subtitle"> </p>
                     </div>
                 </div>
-                
                 <div class="col-xs-12 col-sm-4">
-
                     <div class="mkdf-item-text-holder">
                        <a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-e-commerce" class="image-holder">
                            <div class="overlay">
                                 <i class="icon-magnifier icons"></i>
                            </div>
-                       
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.jpg" alt="study-5">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-5.jpg" alt="study-5"  title="Học 5">
                             </div>
                        </a>
-                        
                         <h3 itemprop="headline" class="mkdf-item-title">
                             <a itemprop="url" href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-e-commerce"> Thương mại điện tử</a>
                         </h3>
                     </div>
-
                 </div>
-                
                 <div class="col-xs-12 col-sm-4">
-
                     <div class="mkdf-item-text-holder">
                         <a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-travel" class="image-holder">
                            <div class="overlay">
                                 <i class="icon-magnifier icons"></i>
                            </div>
-                       
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.jpg" alt="study-4">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-4.jpg" alt="study-4"  title="Học 4">
                             </div>
                        </a>
-                        
                         <h3 itemprop="headline" class="mkdf-item-title">
                             <a itemprop="url" href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-travel"> Du lịch</a>
                         </h3>
                     </div>
-
                 </div>
-                
                 <div class="col-xs-12 col-sm-4">
-
                     <div class="mkdf-item-text-holder">
                         <a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-finance-banking-insurance" class="image-holder">
                            <div class="overlay">
                                 <i class="icon-magnifier icons"></i>
                            </div>
-                       
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.jpg" alt="study-3">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.jpg" alt="study-3" title="Học 3">
                             </div>
                        </a>
-                        
                         <h3 itemprop="headline" class="mkdf-item-title">
                             <a itemprop="url" href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-finance-banking-insurance"> Tài chính - ngân hàng</a>
                         </h3>
                     </div>
-
                 </div>
-                
                 <div class="col-xs-12 col-sm-4">
-
                     <div class="mkdf-item-text-holder">
                         <a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-education" class="image-holder">
                            <div class="overlay">
                                 <i class="icon-magnifier icons"></i>
                            </div>
-                       
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.jpg" alt="study-2">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-2.jpg" alt="study-2" title="Học 2">
                             </div>
                        </a>
-                        
                         <h3 itemprop="headline" class="mkdf-item-title">
                             <a itemprop="url" href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-education"> Giáo dục</a>
                         </h3>
                     </div>
-
                 </div>
-                
                 <div class="col-xs-12 col-sm-4">
-
                     <div class="mkdf-item-text-holder">
                         <a href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-beauty" class="image-holder">
                            <div class="overlay">
                                 <i class="icon-magnifier icons"></i>
                            </div>
-                       
                             <div class="images-wrap">
-                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.jpg" alt="study-1">
+                                <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-1.jpg" alt="study-1" title="Học 1">
                             </div>
                        </a>
-                        
                         <h3 itemprop="headline" class="mkdf-item-title">
                             <a itemprop="url" href="<?php echo esc_url(home_url( '/' )) ;?>advertiser-case-study-beauty"> Làm đẹp</a>
                         </h3>
                     </div>
-
                 </div>
             </div>
-
         </div>
-
-        
     </section>
-    
-
-    
      <?php 	get_template_part('contents/advertiser/footer'); ?>

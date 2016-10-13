@@ -45,18 +45,18 @@
                             <h3 class="section-title"><span class="bk-number" style="background: #00aeef;">1</span>&nbsp; KÝ HỢP ĐỒNG</h3></div>
                         <div class="mkdf-section-subtitle-holder">
                             <p  class="mkdf-section-subtitle"> 
-                            <ul class="clearfix tour-list">
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập loại kết quả (mua hàng, đăng ký, điền form…)</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập chi phí cho mỗi chuyển đổi thành công</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Chuẩn bị tài liệu truyền thông: nội dung, hình ảnh,…</li>
-                            </ul>
+                                <ul class="clearfix tour-list">
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập loại kết quả (mua hàng, đăng ký, điền form…)</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập chi phí cho mỗi chuyển đổi thành công</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Chuẩn bị tài liệu truyền thông: nội dung, hình ảnh,…</li>
+                                </ul>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="tour-20">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="tour-20" title="Tour 20">
                 </div>
                 </div>
 
@@ -73,19 +73,19 @@
                             <h3 class="section-title"><span class="bk-number" style="background: #00aeef;">2</span>&nbsp; KẾT NỐI KỸ THUẬT</h3></div>
                         <div class="mkdf-section-subtitle-holder">
                             <p  class="mkdf-section-subtitle">
-                            <ul class="clearfix tour-list">
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt format tracking link</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt Post-back đơn hàng (embed JS hoặc push API)</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt cập nhật đơn hàng</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt Datafeed</li>
-                            </ul>
+                                <ul class="clearfix tour-list">
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt format tracking link</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt Post-back đơn hàng (embed JS hoặc push API)</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt cập nhật đơn hàng</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Cài đặt Datafeed</li>
+                                </ul>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="tour-21">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="tour-21"  title="Tour 21">
                 </div>
                 </div>
 
@@ -112,7 +112,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="tour-22">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="tour-22"  title="Tour 22">
                 </div>
                 </div>
 
@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-24.jpg" alt="tour-24">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-24.jpg" alt="tour-24"  title="Tour 24">
                 </div>
                 </div>
 

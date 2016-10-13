@@ -12,16 +12,12 @@
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/owl-carousel/owl.transitions.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/wow-master/css/libs/animate.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/simple-line-icons-master/css/simple-line-icons.css">
-    <!--    <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/css3-animate-it.css">-->
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/animateSlider/css/jquery.animateSlider.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/at-style.css">
 </head>
-
 <body>
      <?php 	get_template_part('contents/advertiser/header'); ?>
-    
-    
     <section class="content-block img-block bk-green-img bor-t bor-b">
        <div class="container">
             <div class="row">
@@ -32,10 +28,8 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </section>
-    
     <section class="content-block tour-block">
         <div class="container">
             <div class="row">
@@ -45,25 +39,23 @@
                             <h3 class="section-title"><span class="bk-number" style="background: #00aeef;">1</span>&nbsp; KÝ HỢP ĐỒNG</h3></div>
                         <div class="mkdf-section-subtitle-holder">
                             <p  class="mkdf-section-subtitle"> 
-                            <ul class="clearfix tour-list">
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập loại kết quả (mua hàng, đăng ký, điền form…)</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập chi phí cho mỗi chuyển đổi thành công</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Chuẩn bị tài liệu truyền thông: nội dung, hình ảnh,…</li>
-                            </ul>
+                                <ul class="clearfix tour-list">
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập loại kết quả (mua hàng, đăng ký, điền form…)</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Thiết lập chi phí cho mỗi chuyển đổi thành công</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Chuẩn bị tài liệu truyền thông: nội dung, hình ảnh,…</li>
+                                </ul>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="tour-20">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-20.jpg" alt="tour-20" title="Tour 20">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
     <section class="content-block bk-grey bor-t bor-b tour-block">
         <div class="container">
             <div class="row">
@@ -85,14 +77,12 @@
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="tour-21">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-21.jpg" alt="tour-21" title="Tour 21">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
     <section class="content-block tour-block">
         <div class="container">
             <div class="row">
@@ -102,25 +92,20 @@
                             <h3 class="section-title"><span class="bk-number" style="background: #00aeef;">3</span>&nbsp; TESTING</h3></div>
                         <div class="mkdf-section-subtitle-holder">
                             <p  class="mkdf-section-subtitle">
-                            <ul class="clearfix tour-list">
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Test kịch bản đơn hàng, cập nhật đơn hàng</li>
-                                <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Test mua hàng, đăng ký, điền form trên các thiết bị</li>
-                            </ul>
+                                <ul class="clearfix tour-list">
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Test kịch bản đơn hàng, cập nhật đơn hàng</li>
+                                    <li><span class="glyphicon glyphicon-ok" style="color: #00aeef;" aria-hidden="true"></span>&nbsp;&nbsp; Test mua hàng, đăng ký, điền form trên các thiết bị</li>
+                                </ul>
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-7">
                     <div class="images-wrap">
-                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="tour-23">
+                    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/tour-23.jpg" alt="tour-23" title="Tour 23">
                 </div>
                 </div>
-
             </div>
         </div>
     </section>
-    
-
-
-    
      <?php 	get_template_part('contents/advertiser/footer'); ?>

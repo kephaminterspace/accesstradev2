@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,19 +13,12 @@
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/simple-line-icons-master/css/simple-line-icons.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/plugin/animateSlider/css/jquery.animateSlider.css">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/fonts/themify-icons/themify-icons.css">
-
-
-
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/at-style.css">
 </head>
-
 <body>
     <?php
-
-   	get_template_part('contents/advertiser/header');
-
+       	get_template_part('contents/advertiser/header');
 	?>
-    
     <section class="content-block bk-grey bor-t bor-b breadcrumb-block">
         <div class="container">
             <div class="row">
@@ -43,9 +35,6 @@
             </div>
         </div>
     </section>
-    
-    
-
     <section class="content-block2 tour-block study-block bk-green-3 white-text">
        <div class="container">
             <div class="row">
@@ -62,31 +51,21 @@
                                <span class="study-k-title">Doanh thu/Tháng</span>
                                <span class="study-n-title" style="    color: #fdd325 !important;">20 Tỷ</span>
                            </li> 
-                           
                            <li class="text-center">
                                <span class="study-k-title">cvr</span>
                                <span class="study-n-title" style="    color: #fdd325 !important;">15%-25%</span>
                            </li> 
                         </ul>
                     </div>
-                    
                 </div>
-                
                 <div class="col-xs-12 col-sm-7">
-                
                     <div class="images-wrap">
-                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.png" alt="study-3">
-                                    </div>
-                    
+                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/study-3.png" alt="study-3" title="Học 3">
+                    </div>
                 </div>
-                
             </div>
-
         </div>
-
-        
     </section>
-    
     <section class="content-block case-block">
        <div class="container">
             <div class="row">
@@ -99,35 +78,25 @@
                    <div class="partner-list">
                         <div id="partner-list" class="owl-carousel owl-theme">
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ANZ.png" alt="ANZ">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/ANZ.png" alt="ANZ" title="Anz">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/citibank.png" alt="citibank">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/citibank.png" alt="citibank" title="Citi Bank">
                           </div>
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/exim.png" alt="exim">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/exim.png" alt="exim" title="Exim Bank">
+                          </div>
+                          <div class="item text-center">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/vpbank.png" alt="vpbank" title="VP Bank">
                           </div>
                           
                           <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/vpbank.png" alt="vpbank">
+                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/maritime%20.png" alt="maritime" title="Mari time">
                           </div>
-                          
-                          <div class="item text-center">
-                              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/logo/maritime%20.png" alt="maritime">
-                          </div>
-                          
                         </div>
                     </div>
                 </div>
-
-                
-                
             </div>
-
         </div>
-
-        
     </section>
-
-    
      <?php 	get_template_part('contents/advertiser/footer'); ?>
