@@ -12,6 +12,12 @@
 	  ga('send', 'pageview');
 
 	</script>
+    <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+    <meta itemprop="ratingValue" content="10">
+    <meta itemprop="bestRating" content="9">
+    <meta itemprop="worstRating" content="0">
+    <meta itemprop="ratingCount" content="200"></span>
+
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php wp_title( '|', true, 'right' ); ?></title>
