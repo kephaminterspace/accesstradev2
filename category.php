@@ -25,7 +25,7 @@
                 <div class="col-xs-12 col-sm-8">
                     <div class="mkdf-blog-list-item-inner blog-list">
                         <div class="row">
-                        <?php i=0;
+                        <?php $i=0;
 							if ( have_posts() ) : while ( have_posts() ) : the_post();
 							$title  = the_title($before = '', $after = '', $echo = false);
 							$category = get_the_category();
@@ -52,10 +52,10 @@
                                     </div>
                                 </div>
                             </div>
-			 <?php if(i>0 and i%2==0){?>
-				</div>
-				<div class="row">
-			 <?php }?>	
+                         <?php $i = $i+1; if($i>0 and $i%2==0){?>
+                            </div>
+                            <div class="row">
+                         <?php }?>
       					 <?php  endwhile; endif;  ?>
                         </div>
                     </div>
