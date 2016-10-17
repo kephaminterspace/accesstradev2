@@ -91,7 +91,7 @@
 			<div id="view-more">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center" id="btnViewmore">
 					<div class="" style="margin-top: 40px;">
-						<a href="/publisher/cap-nhat-chien-dich" class="btn at-btn outline-blue">Xem thêm</a>
+						<a href="<?php echo esc_url(home_url( '/' )) ;?>danh-cho-publisher/cap-nhat-chien-dich" class="btn at-btn outline-blue">Xem thêm</a>
 					</div>
 				</div>
 			</div>
@@ -112,7 +112,7 @@
 				var html = '';
 				html += '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center" id="btnViewmore">';
 				html += 	'<div class="" style="margin-top: 40px;">';
-				html += 		'<a href="/publisher/cap-nhat-chien-dich" class="btn at-btn outline-blue">Xem thêm</a>';
+				html += 		'<a href="<?php echo esc_url(home_url( '/' )) ;?>danh-cho-publisher/cap-nhat-chien-dich" class="btn at-btn outline-blue">Xem thêm</a>';
 				html +=		'</div>';
 				html +=	'</div>';
 
