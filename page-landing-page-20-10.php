@@ -46,29 +46,29 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="hero-area">
-                            <h2 class="headline"><span class="text-highlight">KIẾM TIỀN </span>ONLINE</h2>
-                            <h3 class="headline-support"> Gia tăng thu nhập trong lĩnh vực Làm đẹp – Chỉ có tại Accesstrade</h3>
+                            <h4 class="headline"><span class="text-highlight">ĐỘT PHÁ DOANH THU</span> AFFILIATE VỚI CÁC CHIẾN DỊCH LÀM ĐẸP <span class="text-highlight">CHỈ CÓ TẠI ACCESSTRADE</span></h4>
                         </div>
                         <div class="benefits benefits-vertical">
                             <div class="benefit-item">
                                 <div class="benefit-icon"><i class="icon icon-database-streamline"> </i></div>
                                 <h6 class="benefit-title">Hoa hồng</h6>
-                                <p>Hoa hồng siêu hấp dẫn lên tới <span class="text-bold text-success">300,000đ/khách hàng</span>, <span class="text-bold text-success">140,000đ/form</span></p>
-                            </div>
-                            <div class="benefit-item">
-                                <div class="benefit-icon"><i class="icon icon-happy-smiley-streamline"> </i></div>
-                                <h6 class="benefit-title">Đơn giản</h6>
-                                <p>Chỉ cần người dùng đăng ký form nhận tư vấn hoặc sử dụng dịch vụ</p>
+                                <p>Hoa hồng siêu hấp dẫn lên tới <span class="text-bold text-success">900.000Đ trên mỗi chuyển đổi thành công</span></p>
                             </div>
                             <div class="benefit-item">
                                 <div class="benefit-icon"> <i class="icon icon-bubble-love-streamline-talk"> </i></div>
                                 <h6 class="benefit-title"> Đa dạng dịch vụ</h6>
-                                <p>Tắm trắng, giảm cân, nâng ngực, trị mụn …</p>
+                                <p>* Mỹ phẩm: Chăm sóc da, Trang Điểm,...</p>
+                                <p>* Dịch vụ: Trị mụn, Nâng ngực, Yoga,......</p>
                             </div>
                             <div class="benefit-item">
                                 <div class="benefit-icon"> <i class="icon icon-armchair-chair-streamline"> </i></div>
                                 <h6 class="benefit-title"> Nhà cung cấp uy tín</h6>
-                                <p> Nhà cung cấp là các thẩm mỹ viện uy tín hàng đầu Việt Nam</p>
+                                <p>Các nhà cung cấp đều là các thương hiệu uy tín và thẩm mĩ viện cao cấp trên thị trường: Kangnam, Đông Á, California,...</p>
+                            </div>
+                            <div class="benefit-item">
+                                <div class="benefit-icon"><i class="icon icon-happy-smiley-streamline"> </i></div>
+                                <h6 class="benefit-title">Đơn giản</h6>
+                                <p>Chỉ cần người dùng từ blog, site của bạn thực hiện mua hàng hoặc điền Form nhận tư vấn.</p>
                             </div>
                         </div>
                     </div>
@@ -85,26 +85,21 @@
             <div class="row">
                 <div class="col-xs-12 col-md-6">
                     <div class="section-title left-aligned">
-                        <h2>TẠI SAO NÊN CHỌN CHIẾN DỊCH <span class="text-highlight">LÀM ĐẸP </span></h2>
-                        <h3 class="subline">Nhu cầu làm đẹp của phụ nữ tăng trưởng mạnh</h3>
+                        <h4 class="headline">GIA TĂNG HOA HỒNG CHUYỂN ĐỔI VỚI  CÁC CHIẾN DỊCH LÀM ĐẸP <span class="text-highlight">NHÂN NGÀY PHỤ NỮ VIỆT NAM</span></h4>
                         <hr>
                     </div>
-                    <p>Ngày nay, với sự phát triển vượt bậc của xã hội đã khiến nhu cầu làm đẹp của phụ nữ hiện đại ngày càng tăng cao và chưa bao giờ có dấu hiệu giảm độ nóng.Ngoài những thành công không kém gì cánh mày râu, phụ nữ ngày nay còn mang nét đẹp quý phái và trở nên cuốn hút hơn rất nhiều.
+                    <p>
+                    Ngày nay, với sự phát triển vượt bậc của xã hội đã khiến nhu cầu làm đẹp của phụ nữ hiện đại ngày càng tăng cao và chưa bao giờ có dấu hiệu giảm độ nóng.
+                    </p><p>
+                    Ngày càng nhiều các bệnh viện, trung tâm thẩm mỹ ra đời để đáp ứng nhu cầu làm đẹp của chị em như Kangnam, Đông Á ..với đa dạng dịch vụ khác nhau như giảm cân, yoga, nâng ngực, trị mụn …Bên cạnh đó là nhu cầu sử dụng Mỹ phẩm của chị em phụ nữ cũng không ngừng gia tăng như: sản phẩm chăm sóc da, trang điểm,...Đặc biệt trong dịp ngày chị em 20/10 này, nhu cầu đó sẽ đột biến mạnh mẽ!
+                    </p><p>
+                    Chính vì vậy, trong thời điểm thị trường lĩnh vực làm đẹp đang tăng trưởng mạnh mẽ như hiện tại là cơ hội thuận lợi để các bạn đối tác của ACCESSTRADE kiếm tiền và gia tăng thu nhập khi đẩy mạnh các chiến dịch trong lĩnh vực làm đẹp.
+                    Hi vọng nhân dịp đặc biệt này, các đối tác tăng doanh thu chuyển đổi ngoại mục trên hệ thống ACCESSTRADE Việt Nam
                     </p>
-
-                    <p>Ngày càng nhiều các bệnh viện, trung tâm thẩm mỹ ra đời để đáp ứng nhu cầu làm đẹp của chị em như Sài Gòn Smile Spa (diva Mỹ Linh đồng sở hữu), Kangnam, Đông Á ..với đa dạng dịch vụ khác nhau như giảm cân, nâng ngực, trị mụn …
-                    </p>
-
-                    <p>Chính vì vậy, trong thời điểm thị trường lĩnh vực làm đẹp đang tăng trưởng mạnh mẽ như hiện tại là cơ hội thuận lợi để các bạn đối tác của ACCESSTRADE kiếm tiền và gia tăng thu nhập.
-                    </p>
-
-                    <p>Các chiến dịch làm đẹp chỉ có duy nhất tại ACCESSTRADE.. Hãy nhanh tay đăng ký và quảng bá để gia tăng thu nhập ngay thôi!
-                    </p>
-
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <img width="100%" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/spa-pic-1.png">
-                    <p class="text-center mt-lg"><a href="#" class="btn btn-warning btn-xl">THAM GIA NGAY</a></p>
+                    <p class="text-center mt-lg"><a href="https://accesstrade.vn/site/register" class="btn btn-warning btn-xl">THAM GIA NGAY</a></p>
                 </div>
             </div>
         </div>
