@@ -104,7 +104,6 @@
 <script type="text/javascript">
 
 	jQuery(document).ready(function() {
-
 		var btnClass = $('a.btn_campaign_filter');
 		btnClass.on('click', function() {
 			var btnClassValue = $(this).attr('data-type');
@@ -120,11 +119,8 @@
 			} else if (btnClassValue == 1 || btnClassValue == 2) {
 				$('#view-more #btnViewmore').remove();
 			}
-
 		});
-
-
 	});
-
-
 </script>
+
+

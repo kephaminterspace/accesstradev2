@@ -78,8 +78,8 @@
                         <h3 class="academy-title">ACCESSTRADE ACADEMY</h3>
                         <p class="academy-subtitle text-up">ĐÀO TẠO KHỞI NGHIỆP, KIẾM TIỀN HIỆU QUẢ QUA <b>INTERNET</b></p>
                         <div>
-                            <a class="btn at-btn outline-white at-btn-lg">Tìm hiểu thêm</a>
-                            <a class="btn at-btn at-btn-lg orange-btn">Đăng ký ngay</a>
+                            <a class="btn at-btn outline-white at-btn-lg" href="https://docs.google.com/forms/d/1PCpu7flLCfWVsMrsJh5yQzAZYDDRYERSK8GGLva1x9I/viewform" target="_blank">Tìm hiểu thêm</a>
+                            <a class="btn at-btn at-btn-lg orange-btn" href="https://docs.google.com/forms/d/1PCpu7flLCfWVsMrsJh5yQzAZYDDRYERSK8GGLva1x9I/viewform" target="_blank">Đăng ký ngay</a>
                         </div>
                     </div>
 
