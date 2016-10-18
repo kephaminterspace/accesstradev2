@@ -24,6 +24,11 @@
     <![endif]-->
     <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/js/landing-page-20-10/modernizr.min.js"></script>
     <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/js/landing-page-20-10/pace.js"></script>
+    <style>
+        .benefits-vertical .benefit-item {
+            max-width: 500px;
+        }
+    </style>
 </head>
 
 <body data-spy="scroll" data-target="#navbar" data-offset="100">
