@@ -283,7 +283,7 @@
                                         <div class="news-content-fix">
                                             <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=37">Yes24</a></h4>
                                             <div class="meta font-title">
-                                                Mua sắm Stype Hàn Quốc
+                                                Mua sắm Style Hàn Quốc
                                             </div>
                                         </div>
                                     </div>
