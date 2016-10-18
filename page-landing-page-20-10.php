@@ -123,45 +123,20 @@
                     <div class="container">
                         <div class="row">
                             <div id="owl-example" class="owl-carousel owl-theme">
+
                                 <div class="col-md-4 news item">
                                     <div class="news-content-wrap">
-                                        <a title="Sài gòn Smile Spa">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/giam_can_anh_3.jpg" data-toggle="modal" data-target="#sgsmilespa" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up" data-toggle="modal" data-target="#sgsmilespa">
-                                                <h4 class="font-title"><a>Sài gòn Smile Spa</a></h4>
+                                        <a title="Bệnh viện thẩm mỹ Kangnam" href="https://member.accesstrade.vn/p/handshake?mcn=128">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/kangnam.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>
                                                 <div class="meta font-title">
-                                                    Giảm béo và chăm sóc da
-                                                </div>
-                                                <p>+ Hoa hồng hấp dẫn: <span class="text-bold text-success">82.000đ/form</span> đăng ký tư vấn
-                                                    <br> + Loại kết quả: Hoàn thành form đăng ký tư vấn
-                                                    <br>+ Cookie:<span class="text-bold text-success"> 45 ngày</span>
-                                                    <br>+ Không ghi đè cookie
-                                                </p>
-                                            </div>
-                                        </a>
-                                        <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="#">Sài gòn Smile Spa</a></h4>
-                                            <div class="meta font-title">
-                                                Giảm béo và chăm sóc da
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
-                                </div>
-                                <div class="col-md-4 news item">
-                                    <div class="news-content-wrap">
-                                        <a title="Bệnh viện thẩm mỹ Kangnam">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/600x40011-500x333.jpg" data-toggle="modal" data-target="#thammykangnam" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up" data-toggle="modal" data-target="#thammykangnam">
-                                                <h4 class="font-title"><a>Bệnh viện thẩm mỹ Kangnam</a></h4>
-                                                <div class="meta font-title">
-                                                    Nâng ngực Y-line đẹp tự nhiên
+                                                    Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc
                                                 </div>
                                                 <p>+ Hoa hồng hấp dẫn:
-                                                    <br><span class="text-bold text-success">140.000đ/form</span> đăng ký tư vấn
-                                                    <br><span class="text-bold text-success">300.000đ/khách hàng</span> sử dụng dịch vụ
-                                                    <br>+ Cookie: <span class="text-bold text-success">45 ngày</span>
+                                                    <br>+ Đăng kí điền Form: <span class="text-bold text-success">200.000vnđ</span>
+                                                    <br>+ Sử dụng dịch vụ: <span class="text-bold text-success">300.000vnđ</span>
+                                                    <br>+ Thời gian Cookie: <span class="text-bold text-success">45 ngày</span>
                                                     <br>+ Không ghi đè cookie
                                                 </p>
                                             </div>
@@ -169,26 +144,27 @@
                                         <div class="news-content-fix">
                                             <h4 class="font-title"><a href="#">Bệnh viện thẩm mỹ Kangnam</a></h4>
                                             <div class="meta font-title">
-                                                Nâng ngực Y-line đẹp tự nhiên
+                                                Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc
                                             </div>
                                         </div>
                                     </div>
                                     <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
                                     <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
                                 </div>
+
                                 <div class="col-md-4 news item">
                                     <div class="news-content-wrap">
-                                        <a title="Thẩm mỹ viện Đông Á">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/13012734_487038584824424_8769339663973064938_n.jpg" data-toggle="modal" data-target="#thammydonga" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up" data-toggle="modal" data-target="#thammydonga">
-                                                <h4 class="font-title"><a>Thẩm mỹ viện Đông Á</a></h4>
+                                        <a title="Thẩm mỹ viện Đông Á" href="https://member.accesstrade.vn/p/handshake?mcn=129">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/donga.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>
                                                 <div class="meta font-title">
-                                                    Trị mụn Acne Extra - Đẹp đến từng đường nét
+                                                    Trị mụn Acne Extra – Đẹp đến từng đường nét!
                                                 </div>
                                                 <p>+ Hoa hồng hấp dẫn:
-                                                    <br> <span class="text-bold text-success">40.000đ/form</span> đăng ký tư vấn
-                                                    <br> <span class="text-bold text-success">100.000đ/khách hàng</span> sử dụng dịch vụ
-                                                    <br>+ Cookie: <span class="text-bold text-success">45 ngày</span>
+                                                    <br>+ Đăng kí điền Form thành công: <span class="text-bold text-success">60.000Đ</span>
+                                                    <br>+ Tham gia sử dụng dịch vụ: <span class="text-bold text-success">100.000Đ</span>
+                                                    <br>+ Thời gian lưu Cookie: 45 ngày
                                                     <br>+ Không ghi đè cookie
                                                 </p>
                                             </div>
@@ -196,34 +172,125 @@
                                         <div class="news-content-fix">
                                             <h4 class="font-title"><a href="#">Thẩm mỹ viện Đông Á</a></h4>
                                             <div class="meta font-title">
-                                                Trị mụn Acne Extra
+                                                Trị mụn Acne Extra – Đẹp đến từng đường nét!
                                             </div>
                                         </div>
                                     </div>
                                     <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
                                     <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
                                 </div>
+
                                 <div class="col-md-4 news item">
                                     <div class="news-content-wrap">
-                                        <a title="Thẩm mỹ viện PLACENCARE">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/geX1MyYGjRDgE5g.jpeg" data-toggle="modal" data-target="#" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up" data-toggle="modal" data-target="#">
-                                                <h4 class="font-title"><a>Thẩm mỹ viện PLACENCARE</a></h4>
+                                        <a title="Sài gòn Smile Spa" href="https://member.accesstrade.vn/p/handshake?mcn=151">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/cali.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=151">California Fitness&Yoga</a></h4>
                                                 <div class="meta font-title">
-                                                    Coming soon 1
+                                                    Trải nghiệm phòng tập 5 Sao!
                                                 </div>
+                                                <p>+ Hoa hồng hấp dẫn lên tới: <span class="text-bold text-success">900.000vnđ</span>
+                                                    <br>+ Thời gian lưu Cookie: <span class="text-bold text-success"> 60 ngày</span>
+                                                    <br>+ Địa điểm: HN, HCM, Đà Nẵng, Bình Dương, Biên Hòa, Nha Trang
+                                                    <br>+ Không ghi đè cookie
+                                                </p>
                                             </div>
                                         </a>
                                         <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="#">Thẩm mỹ viện PLACENCARE</a></h4>
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=151">California Fitness&Yoga</a></h4>
                                             <div class="meta font-title">
-                                                Coming soon !
+                                                Trải nghiệm phòng tập 5 Sao!
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                </div>
+
+
+                                <div class="col-md-4 news item">
+                                    <div class="news-content-wrap">
+                                        <a title="Sài gòn Smile Spa" href="https://member.accesstrade.vn/p/handshake?mcn=117">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/topmot.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=117">Topmot</a></h4>
+                                                <div class="meta font-title">
+                                                    Mỹ Phẩm Làm đẹp & Sức Khỏe
+                                                </div>
+                                                <p>
+                                                    + Hoa hồng: <span class="text-bold text-success"> 5%</span>
+                                                    <br>+ Thời gian lưu Cookie: <span class="text-bold text-success"> 45 ngày</span>
+                                                    <br>+ Không ghi đè cookie
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <div class="news-content-fix">
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=117">Topmot</a></h4>
+                                            <div class="meta font-title">
+                                                Mỹ Phẩm Làm đẹp&Sức Khỏe
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                </div>
+
+
+                                <div class="col-md-4 news item">
+                                    <div class="news-content-wrap">
+                                        <a title="Sài gòn Smile Spa" href="https://member.accesstrade.vn/p/handshake?mcn=158">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/talaha.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=158">Talaha</a></h4>
+                                                <div class="meta font-title">
+                                                    Thương hiệu Giầy Nữ Hàn Quốc Hari Won
+                                                </div>
+                                                <p>
+                                                    + Hoa hồng:  <span class="text-bold text-success"> 12.5%</span>
+                                                    <br>+ Thời gian lưu Cookie: <span class="text-bold text-success"> 60 ngày</span>
+                                                    <br>+ Không ghi đè cookie
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <div class="news-content-fix">
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=158">Talaha</a></h4>
+                                            <div class="meta font-title">
+                                                Thương hiệu Giầy Nữ Hàn Quốc Hari Won
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                </div>
+
+
+                                <div class="col-md-4 news item">
+                                    <div class="news-content-wrap">
+                                        <a title="Thẩm mỹ viện PLACENCARE" hre="https://member.accesstrade.vn/p/handshake?mcn=37">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/yes24.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <div class="news-content slide-up">
+                                                <h4 class="font-title"><a hre="https://member.accesstrade.vn/p/handshake?mcn=37">Yes24</a></h4>
+                                                <div class="meta font-title">
+                                                    Mua sắm Stype Hàn Quốc
+                                                </div>
+                                                <p>
+                                                    + Hoa hồng:  <span class="text-bold text-success"> 5%</span>
+                                                    <br>+ Thời gian lưu Cookie: <span class="text-bold text-success"> 30 ngày</span>
+                                                    <br>+ Không ghi đè cookie
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <div class="news-content-fix">
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=37">Yes24</a></h4>
+                                            <div class="meta font-title">
+                                                Mua sắm Stype Hàn Quốc
                                             </div>
                                         </div>
                                     </div>
                                     <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
                                     <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
                                 </div>
+
                                 <div class="clearfix"></div>
                             </div>
                         </div>
