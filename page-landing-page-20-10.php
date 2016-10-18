@@ -142,14 +142,14 @@
                                             </div>
                                         </a>
                                         <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="#">Bệnh viện thẩm mỹ Kangnam</a></h4>
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>
                                             <div class="meta font-title">
                                                 Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-warning">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-success">Lấy mã</a>
                                 </div>
 
                                 <div class="col-md-4 news item">
@@ -170,14 +170,14 @@
                                             </div>
                                         </a>
                                         <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="#">Thẩm mỹ viện Đông Á</a></h4>
+                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>
                                             <div class="meta font-title">
                                                 Trị mụn Acne Extra – Đẹp đến từng đường nét!
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-warning">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-success">Lấy mã</a>
                                 </div>
 
                                 <div class="col-md-4 news item">
@@ -203,8 +203,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=151" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=151" class="btn btn-success btn-sm">Lấy mã</a>
                                 </div>
 
 
@@ -231,8 +231,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=117" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=117" class="btn btn-success btn-sm">Lấy mã</a>
                                 </div>
 
 
@@ -259,8 +259,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success btn-sm">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=158" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=158" class="btn btn-success btn-sm">Lấy mã</a>
                                 </div>
 
 
@@ -271,7 +271,7 @@
                                             <div class="news-content slide-up">
                                                 <h4 class="font-title"><a hre="https://member.accesstrade.vn/p/handshake?mcn=37">Yes24</a></h4>
                                                 <div class="meta font-title">
-                                                    Mua sắm Stype Hàn Quốc
+                                                    Mua sắm Style Hàn Quốc
                                                 </div>
                                                 <p>
                                                     + Hoa hồng:  <span class="text-bold text-success"> 5%</span>
@@ -287,8 +287,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=31" class="btn btn-warning">Đăng ký chiến dịch</a>
-                                    <a href="https://accesstrade.vn/chien-dich-du-lich/" class="btn btn-success">Lấy mã</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=37" class="btn btn-warning">Đăng ký chiến dịch</a>
+                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=37" class="btn btn-success">Lấy mã</a>
                                 </div>
 
                                 <div class="clearfix"></div>
