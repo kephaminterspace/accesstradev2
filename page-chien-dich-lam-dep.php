@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>ACCESSTRADE | Landing pagge 20 - 10</title>
+    <meta name="description" content="Đăng kí và đẩy mạnh doanh thu các chiến dịch làm đẹp với hoa hồng hấp dẫn trên hệ thống affiliate marketing ACCESSTRADE Việt Nam kiếm tiền online hiệu quả 2016"/>
+    <title>Đột phá doanh thu affiliate với chiến dịch làm đẹp trên ACCESSTRADE</title>
     <link rel="shortcut icon" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/cropped-favicon-1-32x32.png">
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/css/at-style.css">
     <title>ACCESSTRADE | Chiến dịch đặc biệt về làm đẹp - Spa</title>
