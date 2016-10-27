@@ -1,3 +1,25 @@
+
+    <section class="content-block bk-grey bor-t bor-b" style="">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-7 get_text text-center">
+                    <p>Tham gia Affiliate Marketing cùng 50.000 Publisher. Đăng kí nhận những cập nhật mới nhất về Affiliate & Tip kiếm tiền online hiệu quả với ACCESSTRADE Việt Nam.</p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-5 get_email">
+                    <div class="input-group input-group-lg">
+                        <?php es_subbox( $namefield = "", $desc = "", $group = "" ); ?>
+
+<!--                        <input type="text" class="form-control">-->
+<!--                        <span class="input-group-btn">-->
+<!--                          <button type="button" class="btn btn-flat btn-warning ">Gửi</button>-->
+<!--                        </span>-->
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <footer class="site-footer section-spacing white-text">
         <div class="container">
             <div class="row footer-col-spacing">

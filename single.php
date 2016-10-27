@@ -59,6 +59,51 @@
                             </div>
                         </div>
                          <?php  $i++;  endwhile; endif;  ?>
+
+                            <?php
+                            $categories = get_the_category($post->ID);
+                            if ($categories)
+                            {
+                                $category_ids = array();
+                                foreach($categories as $individual_category) $category_ids[] = $individual_category->term_id;
+
+                                $args=array(
+                                    'category__in' => $category_ids,
+                                    'post__not_in' => array($post->ID),
+                                    'showposts'=>4, // Số bài viết bạn muốn hiển thị.
+                                    'caller_get_posts'=>1
+                                );
+                                $my_query = new wp_query($args);
+                                if( $my_query->have_posts() )
+                                {
+                                    echo '<h3>Bài viết liên quan</h3><ul>';
+                                    ?>
+                                    <hr>
+                                    <div class="row">
+                                        <?php
+                                        while ($my_query->have_posts())
+                                        {
+                                            $my_query->the_post();
+                                            ?>
+                                            <div class="col-xs-12 col-sm-3">
+                                                <div class="mkdf-item-text-holder">
+                                                    <div class="images-wrap">
+                                                        <?php echo get_the_post_thumbnail(get_the_ID(), 'thumbnail'); ?>
+                                                    </div>
+                                                    <br>
+                                                    <p>
+                                                        <a href="<?php the_permalink() ?>" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <?php
+                                        }?>
+                                    </div>
+                                    <?php
+                                }
+                            }
+                            ?>
+
                     </div>
                 
                 <div class="col-xs-12 col-sm-4">
@@ -68,7 +113,6 @@
             </div>
         </div>
     </section>
-
 
     <section class="content-block bk-blue white-text">
         <div class="container">
