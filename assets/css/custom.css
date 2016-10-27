@@ -1,0 +1,72 @@
+.get_mail { padding:10px; max-width:1140px; width:100%; margin:auto; }
+.get_text {
+    /*width:300px;*/
+    float:left;
+    color:#818181;
+    background:url("../images/mail.png") no-repeat left top;
+    padding-left:100px;
+    padding-top:20px;
+    height:80px;
+    font-family:'Roboto';
+}
+.get_text p {
+    padding:0px;
+    margin:0;
+    border-right: 1px solid #e4e4e4;
+}
+.get_email {
+    padding-top:10px;
+}
+.get_email input[type=submit] {
+    height:50px;
+    border:none;
+    background:#ff9933;
+    color:#fff;
+    width:142px !important;
+    font-family:'Roboto';
+}
+.get_email input[type=text] {
+    height:47px;
+    border:none;
+    /*width:400px;*/
+    background:#dddddd;
+    padding-left:10px;
+    font-size:18px;
+    font-family:'Roboto';
+}
+
+.content-block {
+    padding: 40px 0 !important;
+}
+
+.es_lablebox, .es_textbox, .es_button{
+    float:left;
+}
+
+.es_textbox_button{
+    height: 47px;
+    background: #ff9933;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    color:#fff;
+    width: 80px !important;
+    font-weight: 600;
+}
+
+.es_button{
+    padding-top: 0px !important;
+    right: 0;
+    top: 0;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+}
+.es_lablebox {
+    padding-bottom: 3px;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.es_textbox_class{
+    width: 250px !important;
+}
