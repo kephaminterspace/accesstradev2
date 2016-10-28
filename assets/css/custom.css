@@ -4,6 +4,7 @@
     color:#818181;
     background:url("../images/mail.png") no-repeat left top;
     padding-left:100px;
+    min-height: 83px;
 }
 .get_text p {
     padding:0px;
