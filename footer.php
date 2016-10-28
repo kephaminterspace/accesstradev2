@@ -2,10 +2,10 @@
     <section class="content-block bk-grey bor-t bor-b" style="">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-7 get_text text-center">
+                <div class="col-xs-12 col-sm-12 col-md-8 get_text text-center">
                     <p>Tham gia Affiliate Marketing cùng 50.000 Publisher. Đăng kí nhận những cập nhật mới nhất về Affiliate & Tip kiếm tiền online hiệu quả với ACCESSTRADE Việt Nam.</p>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-5 get_email">
+                <div class="col-xs-12 col-sm-12 col-md-4 get_email">
                     <div class="input-group input-group-lg">
                         <?php es_subbox( $namefield = "", $desc = "", $group = "" ); ?>
                     </div>
