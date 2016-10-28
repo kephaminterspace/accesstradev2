@@ -1,6 +1,5 @@
 .get_mail { padding:10px; max-width:1140px; width:100%; margin:auto; }
 .get_text {
-    /*width:300px;*/
     float:left;
     color:#818181;
     background:url("../images/mail.png") no-repeat left top;
@@ -28,10 +27,8 @@
 .get_email input[type=text] {
     height:47px;
     border:none;
-    /*width:400px;*/
     background:#dddddd;
     padding-left:10px;
-    font-size:18px;
     font-family:'Roboto';
 }
 
@@ -67,6 +64,6 @@
     margin-right: 15px;
     margin-top: 10px;
 }
-.es_textbox_class{
-    width: 250px !important;
-}
+/*.es_textbox_class{*/
+    /*width: 250px !important;*/
+/*}*/

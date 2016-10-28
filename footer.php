@@ -8,11 +8,6 @@
                 <div class="col-xs-12 col-sm-12 col-md-5 get_email">
                     <div class="input-group input-group-lg">
                         <?php es_subbox( $namefield = "", $desc = "", $group = "" ); ?>
-
-<!--                        <input type="text" class="form-control">-->
-<!--                        <span class="input-group-btn">-->
-<!--                          <button type="button" class="btn btn-flat btn-warning ">Gửi</button>-->
-<!--                        </span>-->
                     </div>
                     </div>
                 </div>
