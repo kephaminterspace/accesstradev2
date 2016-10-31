@@ -53,7 +53,7 @@
     <!-- DO NOT MODIFY -->
     <!-- End Facebook Pixel Code -->
 
-    <meta property="fb:app_id" content="589670924551128" />
+    <meta property="fb:app_id" content="544179192458042" />
 </head>
 
 <div id="fb-root"></div>
@@ -61,7 +61,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8&appId=589670924551128";
+        js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8&appId=544179192458042";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
