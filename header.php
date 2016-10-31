@@ -54,6 +54,7 @@
     <!-- End Facebook Pixel Code -->
 
     <meta property="fb:app_id" content="544179192458042" />
+    <meta property="fb:admins" content="GUQ/8e1ML+6GUQ/8e1ML+6"/>
 </head>
 
 <div id="fb-root"></div>
