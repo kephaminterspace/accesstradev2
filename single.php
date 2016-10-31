@@ -58,6 +58,8 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="fb-comments" data-href="<?php the_permalink(); ?>" data-numposts="20" width="100%" data-colorscheme="light" data-version="v2.3"></div>
+
                          <?php  $i++;  endwhile; endif;  ?>
 
                             <?php
