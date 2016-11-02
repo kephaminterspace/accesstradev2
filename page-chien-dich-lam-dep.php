@@ -125,61 +125,61 @@
                         <div class="row">
                             <div id="owl-example" class="owl-carousel owl-theme">
 
-                                <div class="col-md-4 news item">
-                                    <div class="news-content-wrap">
-                                        <a title="Bệnh viện thẩm mỹ Kangnam" href="https://member.accesstrade.vn/p/handshake?mcn=128">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/kangnam.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up">
-                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>
-                                                <div class="meta font-title">
-                                                    Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc
-                                                </div>
-                                                <p>+ Hoa hồng hấp dẫn:
-                                                    <br>+ Đăng kí điền Form: <span class="text-bold text-success">200.000vnđ</span>
-                                                    <br>+ Sử dụng dịch vụ: <span class="text-bold text-success">300.000vnđ</span>
-                                                    <br>+ Thời gian Cookie: <span class="text-bold text-success">45 ngày</span>
-                                                    <br>+ Không ghi đè cookie
-                                                </p>
-                                            </div>
-                                        </a>
-                                        <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>
-                                            <div class="meta font-title">
-                                                Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-warning">Đăng ký chiến dịch</a>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-success">Lấy mã</a>
-                                </div>
-
-                                <div class="col-md-4 news item">
-                                    <div class="news-content-wrap">
-                                        <a title="Thẩm mỹ viện Đông Á" href="https://member.accesstrade.vn/p/handshake?mcn=129">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/donga.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                            <div class="news-content slide-up">
-                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>
-                                                <div class="meta font-title">
-                                                    Trị mụn Acne Extra – Đẹp đến từng đường nét!
-                                                </div>
-                                                <p>+ Hoa hồng hấp dẫn:
-                                                    <br>+ Đăng kí điền Form thành công: <span class="text-bold text-success">60.000Đ</span>
-                                                    <br>+ Tham gia sử dụng dịch vụ: <span class="text-bold text-success">100.000Đ</span>
-                                                    <br>+ Thời gian lưu Cookie: 45 ngày
-                                                    <br>+ Không ghi đè cookie
-                                                </p>
-                                            </div>
-                                        </a>
-                                        <div class="news-content-fix">
-                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>
-                                            <div class="meta font-title">
-                                                Trị mụn Acne Extra – Đẹp đến từng đường nét!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-warning">Đăng ký chiến dịch</a>
-                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-success">Lấy mã</a>
-                                </div>
+<!--                                <div class="col-md-4 news item">-->
+<!--                                    <div class="news-content-wrap">-->
+<!--                                        <a title="Bệnh viện thẩm mỹ Kangnam" href="https://member.accesstrade.vn/p/handshake?mcn=128">-->
+<!--                                            <img width="358" height="323" src="--><?php //echo esc_url( get_template_directory_uri() ); ?><!--/assets/images/landing-page-20-10/kangnam.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">-->
+<!--                                            <div class="news-content slide-up">-->
+<!--                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>-->
+<!--                                                <div class="meta font-title">-->
+<!--                                                    Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc-->
+<!--                                                </div>-->
+<!--                                                <p>+ Hoa hồng hấp dẫn:-->
+<!--                                                    <br>+ Đăng kí điền Form: <span class="text-bold text-success">200.000vnđ</span>-->
+<!--                                                    <br>+ Sử dụng dịch vụ: <span class="text-bold text-success">300.000vnđ</span>-->
+<!--                                                    <br>+ Thời gian Cookie: <span class="text-bold text-success">45 ngày</span>-->
+<!--                                                    <br>+ Không ghi đè cookie-->
+<!--                                                </p>-->
+<!--                                            </div>-->
+<!--                                        </a>-->
+<!--                                        <div class="news-content-fix">-->
+<!--                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=128">Bệnh viện thẩm mỹ Kangnam</a></h4>-->
+<!--                                            <div class="meta font-title">-->
+<!--                                                Thẩm mỹ vòng 1 Y-line công nghệ Hàn Quốc-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-warning">Đăng ký chiến dịch</a>-->
+<!--                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=128" class="btn btn-success">Lấy mã</a>-->
+<!--                                </div>-->
+<!---->
+<!--                                <div class="col-md-4 news item">-->
+<!--                                    <div class="news-content-wrap">-->
+<!--                                        <a title="Thẩm mỹ viện Đông Á" href="https://member.accesstrade.vn/p/handshake?mcn=129">-->
+<!--                                            <img width="358" height="323" src="--><?php //echo esc_url( get_template_directory_uri() ); ?><!--/assets/images/landing-page-20-10/donga.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">-->
+<!--                                            <div class="news-content slide-up">-->
+<!--                                                <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>-->
+<!--                                                <div class="meta font-title">-->
+<!--                                                    Trị mụn Acne Extra – Đẹp đến từng đường nét!-->
+<!--                                                </div>-->
+<!--                                                <p>+ Hoa hồng hấp dẫn:-->
+<!--                                                    <br>+ Đăng kí điền Form thành công: <span class="text-bold text-success">60.000Đ</span>-->
+<!--                                                    <br>+ Tham gia sử dụng dịch vụ: <span class="text-bold text-success">100.000Đ</span>-->
+<!--                                                    <br>+ Thời gian lưu Cookie: 45 ngày-->
+<!--                                                    <br>+ Không ghi đè cookie-->
+<!--                                                </p>-->
+<!--                                            </div>-->
+<!--                                        </a>-->
+<!--                                        <div class="news-content-fix">-->
+<!--                                            <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Thẩm mỹ viện Đông Á</a></h4>-->
+<!--                                            <div class="meta font-title">-->
+<!--                                                Trị mụn Acne Extra – Đẹp đến từng đường nét!-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-warning">Đăng ký chiến dịch</a>-->
+<!--                                    <a href="https://member.accesstrade.vn/p/handshake?mcn=129" class="btn btn-success">Lấy mã</a>-->
+<!--                                </div>-->
 
                                 <div class="col-md-4 news item">
                                     <div class="news-content-wrap">
@@ -367,6 +367,7 @@
             </div>
         </div>
     </div>
+
     <div class="modal fade" id="thammykangnam" tabindex="-1" role="dialog" aria-labelledby="thammykangnam">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
