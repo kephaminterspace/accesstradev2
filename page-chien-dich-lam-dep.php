@@ -69,7 +69,7 @@
                             <div class="benefit-item">
                                 <div class="benefit-icon"> <i class="icon icon-armchair-chair-streamline"> </i></div>
                                 <h6 class="benefit-title"> Nhà cung cấp uy tín</h6>
-                                <p>Các nhà cung cấp đều là các thương hiệu uy tín và thẩm mĩ viện cao cấp trên thị trường: Kangnam, Đông Á, California,...</p>
+                                <p>Các nhà cung cấp đều là các thương hiệu uy tín và thẩm mĩ viện cao cấp trên thị trường: Bích Nguyệt, Topmot, Yes24, California,...</p>
                             </div>
                             <div class="benefit-item">
                                 <div class="benefit-icon"><i class="icon icon-happy-smiley-streamline"> </i></div>
@@ -91,13 +91,13 @@
             <div class="row">
                 <div class="col-xs-12 col-md-6">
                     <div class="section-title left-aligned">
-                        <h4 class="headline">GIA TĂNG HOA HỒNG CHUYỂN ĐỔI VỚI  CÁC CHIẾN DỊCH LÀM ĐẸP <span class="text-highlight">NHÂN NGÀY PHỤ NỮ VIỆT NAM</span></h4>
+                        <h4 class="headline"><span class="text-highlight">GIA TĂNG HOA HỒNG CHUYỂN ĐỔI VỚI  CÁC CHIẾN DỊCH LÀM ĐẸP</span></h4>
                         <hr>
                     </div>
                     <p>
                     Ngày nay, với sự phát triển vượt bậc của xã hội đã khiến nhu cầu làm đẹp của phụ nữ hiện đại ngày càng tăng cao và chưa bao giờ có dấu hiệu giảm độ nóng.
                     </p><p>
-                    Ngày càng nhiều các bệnh viện, trung tâm thẩm mỹ ra đời để đáp ứng nhu cầu làm đẹp của chị em như Kangnam, Đông Á ..với đa dạng dịch vụ khác nhau như giảm cân, yoga, nâng ngực, trị mụn …Bên cạnh đó là nhu cầu sử dụng Mỹ phẩm của chị em phụ nữ cũng không ngừng gia tăng như: sản phẩm chăm sóc da, trang điểm,...Đặc biệt trong dịp ngày chị em 20/10 này, nhu cầu đó sẽ đột biến mạnh mẽ!
+                    Ngày càng nhiều các bệnh viện, trung tâm thẩm mỹ ra đời để đáp ứng nhu cầu làm đẹp của chị em như Bích Nguyệt, Topmot, Yes24 ..với đa dạng dịch vụ khác nhau như giảm cân, yoga, nâng ngực, trị mụn …Bên cạnh đó là nhu cầu sử dụng Mỹ phẩm của chị em phụ nữ cũng không ngừng gia tăng như: sản phẩm chăm sóc da, trang điểm,...Đặc biệt trong dịp ngày chị em 20/10 này, nhu cầu đó sẽ đột biến mạnh mẽ!
                     </p><p>
                     Chính vì vậy, trong thời điểm thị trường lĩnh vực làm đẹp đang tăng trưởng mạnh mẽ như hiện tại là cơ hội thuận lợi để các bạn đối tác của ACCESSTRADE kiếm tiền và gia tăng thu nhập khi đẩy mạnh các chiến dịch trong lĩnh vực làm đẹp.
                     Hi vọng nhân dịp đặc biệt này, các đối tác tăng doanh thu chuyển đổi ngoại mục trên hệ thống ACCESSTRADE Việt Nam
