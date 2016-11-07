@@ -128,7 +128,7 @@
                                 <div class="col-md-4 news item">
                                     <div class="news-content-wrap">
                                         <a title="Bích Nguyệt Spa" href="https://member.accesstrade.vn/p/handshake?mcn=129">
-                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/bich_nguyet.jpg" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
+                                            <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/landing-page-20-10/bich_nguyet.png" data-toggle="modal" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
                                             <div class="news-content slide-up">
                                                 <h4 class="font-title"><a href="https://member.accesstrade.vn/p/handshake?mcn=129">Bích Nguyệt Spa – Số 1 về trị nám & Công nghệ cao</a></h4>
                                                 <div class="meta font-title">
