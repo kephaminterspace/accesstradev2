@@ -32,7 +32,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
         <div class="navbar-header mobile-center">
-            <a class="navbar-brand" href="#"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/online-fri-day/images/spa-logo.png" alt="Yoga logo"> </a>
+            <a class="navbar-brand" href="https://accesstrade.vn/"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/online-fri-day/images/spa-logo.png" alt="Yoga logo"> </a>
         </div>
         <div class="dkdn">
             <a href="https://pub.accesstrade.vn/accounts/login" class="btn btn-warning">ĐĂNG NHẬP</a>
