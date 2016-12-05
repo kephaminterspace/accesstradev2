@@ -305,28 +305,6 @@
                                 <a href="https://pub.accesstrade.vn/campaigns/4348614230549580029" class="btn btn-success btn-sm">Lấy mã</a>
                             </div>
 
-                            <div class="col-md-4 news item">
-                                <div class="news-content-wrap">
-                                    <a title="Mymall">
-                                        <img width="358" height="323" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/online-fri-day/images/camp-update/1mymall400x250.png" data-toggle="modal" data-target="#sgsmilespa" class="attachment-mediplus-news-thumb size-mediplus-news-thumb wp-post-image">
-                                        <div class="news-content slide-up" data-toggle="modal" data-target="#sgsmilespa">
-                                            <h4 class="font-title"><a>Mymall</a></h4>
-
-                                            <p>+ Hoa hồng: <span class="text-bold text-success">
-                                                    7.35%</span>
-                                                <br>+ Cookie:<span class="text-bold text-success"> 60 ngày</span>
-                                            </p>
-                                        </div>
-                                    </a>
-                                    <div class="news-content-fix">
-                                        <h4 class="font-title"><a href="#">Mymall</a></h4>
-                                    </div>
-                                </div>
-                                <a href="#" class="btn btn-warning btn-sm">Đăng ký chiến dịch</a>
-                                <a href="https://pub.accesstrade.vn/campaigns/4348614229786112993" class="btn btn-success btn-sm">Lấy mã</a>
-                            </div>
-
-
                             <div class="clearfix"></div>
                         </div>
                     </div>
