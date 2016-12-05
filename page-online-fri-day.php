@@ -94,7 +94,7 @@
             </div>
             <div class="col-xs-12 col-md-6">
                 <img width="100%" src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/online-fri-day/images/spa-pic-1a.png">
-                <p class="text-center mt-lg"><a href="#" class="btn btn-warning btn-xl">THAM GIA NGAY</a></p>
+                <p class="text-center mt-lg"><a href="https://pub.accesstrade.vn" class="btn btn-warning btn-xl">THAM GIA NGAY</a></p>
             </div>
 
         </div>
